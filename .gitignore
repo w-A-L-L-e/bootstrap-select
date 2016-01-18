@@ -2,7 +2,6 @@ docs/dist/partials/examples
 docs/dist/partials/main
 docs/dist/partials/api
 docs/dist/examples
-node_modules
 bower_components
 .idea
 .DS_Store
